@@ -130,7 +130,7 @@ main{
         transform: translateY(20px);
     }
     to{
-        opácity: 0;
+        opácity: 1;
         transform: translateY(0px);
     }
 }
